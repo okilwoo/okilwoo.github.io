@@ -78,7 +78,7 @@ post:
 df:
   post:
     strftime: '%b %e, %Y'
-    dayjs: 'll'
+    dayjs: 'YYYY-MM-DD'
   archives:
     strftime: '%b'
     dayjs: 'MMM'
